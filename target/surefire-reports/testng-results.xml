@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="48" started-at="2018-06-27T20:48:06Z" finished-at="2018-06-27T20:48:06Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="48" started-at="2018-06-27T20:48:06Z" finished-at="2018-06-27T20:48:06Z">
+      <class name="group.artifact.TestNGClass">
+        <test-method status="PASS" signature="a()[pri:0, instance:group.artifact.TestNGClass@2812cbfa]" name="a" duration-ms="15" started-at="2018-06-27T16:48:06Z" finished-at="2018-06-27T16:48:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method status="PASS" signature="b()[pri:0, instance:group.artifact.TestNGClass@2812cbfa]" name="b" duration-ms="0" started-at="2018-06-27T16:48:06Z" finished-at="2018-06-27T16:48:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method status="PASS" signature="c()[pri:0, instance:group.artifact.TestNGClass@2812cbfa]" name="c" duration-ms="1" started-at="2018-06-27T16:48:06Z" finished-at="2018-06-27T16:48:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c -->
+        <test-method status="PASS" signature="d()[pri:0, instance:group.artifact.TestNGClass@2812cbfa]" name="d" duration-ms="0" started-at="2018-06-27T16:48:06Z" finished-at="2018-06-27T16:48:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d -->
+      </class> <!-- group.artifact.TestNGClass -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
